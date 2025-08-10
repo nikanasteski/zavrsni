@@ -1,0 +1,21 @@
+# Virtualna okruženja
+venv/
+env/
+
+# Datasetovi ili velike datoteke (primjer)
+data/
+*.csv
+*.h5
+*.zip
+
+# Cache i načini gradnje
+__pycache__/
+*.pyc
+build/
+dist/
+
+# Ostale binarne ili privremene datoteke
+*.exe
+*.dll
+*.so
+
